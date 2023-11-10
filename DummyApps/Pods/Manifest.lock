@@ -1,0 +1,16 @@
+PODS:
+  - EmailValidator (1.0.0)
+
+DEPENDENCIES:
+  - EmailValidator (from `../EmailValidator`)
+
+EXTERNAL SOURCES:
+  EmailValidator:
+    :path: "../EmailValidator"
+
+SPEC CHECKSUMS:
+  EmailValidator: b21e61d2ae5a9370381e5061b1a3acbe72c23f36
+
+PODFILE CHECKSUM: b5c4426af51aaca46522235780f96ec5bb47526e
+
+COCOAPODS: 1.12.1

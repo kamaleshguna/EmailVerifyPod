@@ -1,0 +1,21 @@
+{
+  "name": "EmailValidator",
+  "version": "1.0.0",
+  "summary": "This is the best",
+  "description": "Email validation flow",
+  "homepage": "https://github.com/kamaleshguna/EmailValidation",
+  "license": "MIT",
+  "authors": {
+    "Kamalesh": "kamalesh2002.gk@gmail.com"
+  },
+  "platforms": {
+    "ios": "13.4"
+  },
+  "source": {
+    "git": "https://github.com/kamaleshguna/EmailValidation.git",
+    "branch": "main"
+  },
+  "source_files": "EmailValidator/**/*.{swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
